@@ -72,3 +72,5 @@ staging area
     - git commit 
     - git pull
     - git push 
+    
+23. Merge conflicts are a very common scnario
