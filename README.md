@@ -64,3 +64,11 @@ staging area
 21. `git add .`: this command will add all files from working repo to staging area.
 
 22. `git pull <remote name> <branch name>` : downloads latest changes from the branch of the mentioned remote in your local repo.
+
+### Recommended practice to do
+
+    - make changes
+    - git add <file>
+    - git commit 
+    - git pull
+    - git push 
