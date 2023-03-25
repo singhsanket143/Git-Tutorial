@@ -23,7 +23,7 @@ And the files in this area, git already manages them and knows their version his
 7. `commit` -> Commit is a particular version of the project. It captures a snapshot of the project's staged
 changes and creates a version out of it. 
 
-8. `git commit` -> registers staging changes to a commit 
+8. `git commit` -> registers staging changes to a commit.
 
 9. `git log` -> list downs all the commits of the repository. If you want to exit out of git log prompt
 press `q`.
