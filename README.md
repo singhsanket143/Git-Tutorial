@@ -72,3 +72,5 @@ staging area
     - git commit 
     - git pull
     - git push 
+
+merge conflicts can occur if multiple people try to make changes to the same file, and then collaborate 
